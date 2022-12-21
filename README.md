@@ -1,1 +1,1 @@
-# traffy-images-classification
+# Traffy Images Classification
